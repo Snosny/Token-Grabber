@@ -1,0 +1,10 @@
+Requirements
+
+os
+re
+json
+random
+string
+time
+ctypes
+discord_webhook
